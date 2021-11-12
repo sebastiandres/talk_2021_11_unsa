@@ -1,8 +1,22 @@
-# Talk template
-
-Template para github para crear nuevas charlas y presentaciones. 
-Tiene la estructura definida para MIS charlas.
-
-No es necesario clonar. Al crear un nuevo repositorio, usar "template" y seleccionar "talk_template".
-
-Ejemplo funcionando: [links.html](https://sebastiandres.github.io/talk_template/)
+<h1>Pedagogía con Python </h1>
+<h3>Universidad de Salta, Argentina. 12 Noviembre 2021.</h3>
+<div class="link">
+    <a href="https://mybinder.org/v2/gh/sebastiandres/talk_2021_11_unsa/main?filepath=unsa.ipynb" target="_blank">
+        <p>unsa (interactivas en binder)</p>
+    </a>
+    <a href="https://sebastiandres.github.io/talk_2021_11_unsa/unsa.html" target="_blank">
+        <p>unsa (html)</p>
+    </a>
+    <a href="https://github.com/sebastiandres/talk_2021_11_unsa/raw/main/unsa.pdf" target="_blank">
+        <p>unsa (pdf)</p>
+    </a>
+    <a href="https://github.com/sebastiandres/talk_2021_11_unsa" target="_blank">
+        <p>Código (repositorio github)</p>
+    </a>
+    <a href="https://sebastiandres.xyz">
+        <p> Blog</p>
+    </a>
+    <a href="https://linktr.ee/sebastiandres">
+        <p>⇦ LinkTree</p>
+    </a>
+</div>
